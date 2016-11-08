@@ -1,4 +1,6 @@
-mmmmNeki tekst.
+gggmmmmNeki tekst.
+Neki tekst.
+>>>>>>> probnagrana
 Izmena.
 Nova izmena.
 Izmena na grani.

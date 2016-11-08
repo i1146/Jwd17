@@ -1,6 +1,6 @@
 gggmmmmNeki tekst.
 Neki tekst.
->>>>>>> probnagrana
+probnagrana
 Izmena.
 Nova izmena.
 Izmena na grani.

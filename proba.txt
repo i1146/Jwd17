@@ -1,2 +1,3 @@
 Neki tekst.
-Izmena
+Izmena.
+Nova izmena.
